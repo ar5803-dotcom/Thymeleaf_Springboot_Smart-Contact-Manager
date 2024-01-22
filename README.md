@@ -1,4 +1,5 @@
-# Thymeleaf_Springboot_Smart-Contact-Manager A modern and user-friendly contact management system built with Thymeleaf and Spring Boot.
+# Thymeleaf_Springboot_Smart-Contact-Manager 
+A modern and user-friendly contact management system built with Thymeleaf and Spring Boot.
 
 Overview
 The Smart Contact Manager is a powerful and intuitive contact management system designed to streamline your contact organization. Whether you're managing personal or professional contacts, this application provides a feature-rich solution.
