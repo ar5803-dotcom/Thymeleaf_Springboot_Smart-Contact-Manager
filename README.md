@@ -6,9 +6,15 @@ The Smart Contact Manager is a powerful and intuitive contact management system 
 
 Features
 Intuitive UI: A clean and responsive user interface designed for ease of use.
+
 Contact Management: Add, edit, and delete contacts effortlessly.
+
 Search and Filter: Quickly locate contacts with powerful search and filtering options.
+
 Categories and Tags: Organize contacts with customizable categories and tags.
+
 User Authentication: Secure your contacts with user authentication and access control.
+
 Export and Import: Backup and restore your contacts with export and import functionalities.
+
 Responsive Design: Access your contacts seamlessly across devices.
